@@ -17,6 +17,7 @@ body, html{
     display: flex;
     color: white;
     padding: 5px;
+    justify-content: space-between;
     
 }
 
@@ -24,6 +25,7 @@ li{
     
     padding: 5px;
     list-style-type: none;
+    
 }
 
 li > a {
