@@ -9,9 +9,10 @@ body, html{
     height: 100vh;
     font-family: Arial, Helvetica, sans-serif;
     background-color: black;
-    background: url(../img/fundo1.png)no-repeat;
-    background-position: center center;
-    background-size: 100%;
+    background: url(../img/fundo3.png)no-repeat;
+    background-position-x: -500px;
+    background-size: cover;
+    overflow-x: hidden;
 }
  ul {
     display: flex;
