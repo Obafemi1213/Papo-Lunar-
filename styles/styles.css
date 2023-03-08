@@ -86,6 +86,26 @@ main{
     position: relative;
     
 }
+
+
+
+.player{
+    position: absolute;
+    left: 70%;
+    color: white;
+    background-color: #ffffff42;
+    border-radius: 15px;
+    text-align: center;
+}
+
+.player > img{
+    width: 100px;
+    
+
+}
+
+
+
 .container__principal{
     position: absolute;
     top: 70%;
