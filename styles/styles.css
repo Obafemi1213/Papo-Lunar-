@@ -127,11 +127,10 @@ audio{
 
 
 fieldset{
-    height: 500px;
+    margin: auto;
+    height: 250px;
     width: 400px;
     font-size: bold ;
-    position: absolute;
-    margin: auto;
     background-color: rgba(255, 255, 255, 0.404);
     border-radius: 15px;
     padding: 10px;
