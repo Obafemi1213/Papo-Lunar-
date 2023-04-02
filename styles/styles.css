@@ -90,6 +90,7 @@ main{
 
 
 .player{
+    display: inline;
     margin: auto;
     left: 70%;
     color: white;
@@ -98,10 +99,17 @@ main{
     text-align: center;
 }
 
+
 .player > img{
     width: 100px;
     
 
+}
+
+audio{
+    display: block;
+    margin: auto;
+    height: 120px;
 }
 
 
