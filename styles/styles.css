@@ -1,4 +1,8 @@
 @charset "UTF-8";
+@media screen and (max-width:480px) {
+}
+
+
 *{
     margin: 0px;
     padding: 0px;
@@ -110,7 +114,9 @@ main{
 audio{
     display: block;
     margin: auto;
-    height: 120px;
+    height: 100px;
+    
+
 }
 
 
@@ -135,4 +141,7 @@ fieldset{
     border-radius: 15px;
     padding: 10px;
     box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.514);
+
+
+    
 }
